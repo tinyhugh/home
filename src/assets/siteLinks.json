@@ -1,12 +1,13 @@
 [
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "/alist/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
     "link": "/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "/alist"
   }
+
 ]
